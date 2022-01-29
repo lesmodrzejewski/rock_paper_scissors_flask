@@ -1,0 +1,25 @@
+body {
+    font-family: Mukta;
+}
+
+header {
+    background-color: #501B1D;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    padding: 5px;
+    color: cornsilk;
+}
+
+h2 a {
+    text-decoration: none;
+    color: cornsilk;
+}
+
+main {
+    background-color: #2E1114;
+}
